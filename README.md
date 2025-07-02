@@ -1,2 +1,5 @@
 # HTML-CSS-Projects
-A collection of beginner HTML and CSS projects created during my learning journey
+This repository contains small practice projects built with HTML and CSS.
+Each folder represents a separate mini-project created while learning the basics of web devolopment.
+
+Feel Free to explore!!
